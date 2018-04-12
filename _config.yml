@@ -1,0 +1,10 @@
+# Site settings
+title: Just another great title.
+email: akourtisdev@gmail.com
+description: > # this is my description my dude
+github_username:  akourtis98
+twitter_username: akourtis98
+
+# Build settings
+markdown: kramdown
+theme: minima
